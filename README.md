@@ -6,5 +6,6 @@
 
 -   install nodejs 18
 -   ```
+    pnpm install
     pnpm dev
     ```
